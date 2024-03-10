@@ -313,5 +313,5 @@ async def echo(bot, update):
             text=Translation.FORMAT_SELECTION.format(""),
             reply_markup=reply_markup,
             parse_mode="html",
-            reply_to_message_id=update.message_id
+            reply_to_message_id=update.5975066452
         )
